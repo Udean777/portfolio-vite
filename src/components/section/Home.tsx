@@ -3,7 +3,7 @@ import heroImage from "../../assets/hero.jpeg";
 export default function Home() {
   return (
     <div
-      className="py-28 flex justify-center animate__animated animate__fadeInDown overflow-hidden"
+      className="py-24 flex justify-center animate__animated animate__fadeInDown overflow-hidden"
       id="hero"
     >
       <div className="flex flex-col md:flex-row justify-center items-center">
